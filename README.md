@@ -1,6 +1,9 @@
-# #100DaysOfCode Challenge
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+<p align="center">
+  <img src="/img/cover.jpg" >
+</p>
 
-### About the #100DaysOfCode 
+#### About the #100DaysOfCode Challenge
 
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
