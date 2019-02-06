@@ -11,6 +11,14 @@
 
 ## My #100DaysOfCode Log
 
+- [x] **Day 3: February 04, 2019**
+
+    * ***Today's Progress:*** I created a RESTful API for the Snippet App, started yesterday.
+
+    * ***Thoughts:*** I used a free account at [mLab.com](https://mlab.com) to setup a new MongoDB database and created an API to communicate to the MongoDB.
+
+    * ***Link to work:*** [Snippet App](https://github.com/carlosfab/snippet-app.git)
+
 - [x] **Day 2: February 03, 2019**
 
     * ***Today's Progress:*** I started to build a full Angular app based on the MEAN stack, and finished prototyping/creating the mockups for the app project (Adobe Illustrator + Adobe XD).
