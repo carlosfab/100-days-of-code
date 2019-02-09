@@ -11,6 +11,12 @@
 
 ## My #100DaysOfCode Log
 
+- [x] **Day 4: February 05, 2019**
+
+    * ***Today's Progress:*** I Learnt hot to use json-server to an Angular application.
+
+    * ***Thoughts:*** This was very interesting, because faking a server using a json-server allowed me to better structure the models for front-end Angular app.
+
 - [x] **Day 3: February 04, 2019**
 
     * ***Today's Progress:*** I created a RESTful API for the Snippet App, started yesterday.
