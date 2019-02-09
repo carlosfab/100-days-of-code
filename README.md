@@ -11,6 +11,14 @@
 
 ## My #100DaysOfCode Log
 
+- [x] **Day 5: February 09, 2019**
+
+    * ***Today's Progress:*** I created a script in Python that allows changing the MAC address of a given interface.
+
+    * ***Thoughts:*** First time I used the subprocess built-in module. Also the first time I created some script for Pentesting in Python - there are great opportunities for learning in this field!
+
+    * ***Link to work:*** [Mac Address Changer](https://github.com/carlosfab/mac_changer.git)
+    
 - [x] **Day 4: February 05, 2019**
 
     * ***Today's Progress:*** I Learnt hot to use json-server to an Angular application.
