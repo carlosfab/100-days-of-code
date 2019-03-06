@@ -11,6 +11,25 @@
 
 ## My #100DaysOfCode Log
 
+- [x] **Day 6 and 7: March 05-06, 2019**
+    
+    * ***Today's Progress:*** I built a portable hacking station with a Raspberry Pi and Kali Linux.
+
+    * ***Thoughts:*** With Wi-Fi on board and boot with SSH enabled, I can Command and Control my Raspberry from any device available. Highly discreet, small, cheap and powerful, this Raspberry runs Kali Linux natively. Very flexible, it is able to run a wide range of hacking tools with low footprint and power consumption! 
+    
+    <p align="center">
+       <img src="/img/raspberry_hacking_setup.jpg" width="200">
+    </p>
+    
+    It worked exceptionally well as a platform for Wireless attacks (Wi-Fi jamming, reconnaissance and attack). The setup to create this hacking kit is minimal and required only a few components:
+    
+    * Raspberry Pi 3 Model B+
+    * Battery pack
+    * Wireless network adapter (TL-WN722N)
+    * 16GB Class 10 microSD
+    * Wireless keyboard with touchpad
+
+
 - [x] **Day 5: February 09, 2019**
 
     * ***Today's Progress:*** I created a script in Python that allows changing the MAC address of a given interface.
